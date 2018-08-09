@@ -1,0 +1,49 @@
+body {
+	background-color: #000000;
+	font-family: arial;
+}
+.quadrado{
+	background-color:#cccccc;
+	height: 100px;
+	width: 100px;
+}
+.quadrado2{
+	background-color:#ffffff;
+	position: relative;
+    top: -100px;
+	left: 101px;
+	height: 100px;
+	width: 100px;
+}
+.quadrado3{
+	background-color:#cccccc;
+	position: relative;
+    top: -200px;
+	left: 202px;
+	height: 100px;
+	width: 100px;
+}
+.quadrado4{
+	background-color:#ffffff;
+	position: relative;
+    top: -300px;
+	left: 303px;
+	height: 100px;
+	width: 100px;
+}
+.quadrado5{
+	background-color:#cccccc;
+	position: relative;
+    top: -400px;
+	left: 404px;
+	height: 100px;
+	width: 100px;
+}
+.quadrado6{
+	background-color:#ffffff;
+	position: relative;
+    top: -500px;
+	left: 505px;
+	height: 100px;
+	width: 100px;
+}
