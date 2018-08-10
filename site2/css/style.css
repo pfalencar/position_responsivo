@@ -1,9 +1,9 @@
 body {
-	background-color: #000000;
+	background-color: #cccccc;
 	font-family: arial;
 }
 .quadrado{
-	background-color:#cccccc;
+	background-color:#000000;
 	height: 100px;
 	width: 100px;
 }
@@ -16,7 +16,7 @@ body {
 	width: 100px;
 }
 .quadrado3{
-	background-color:#cccccc;
+	background-color:#000000;
 	position: relative;
     top: -200px;
 	left: 202px;
@@ -32,7 +32,7 @@ body {
 	width: 100px;
 }
 .quadrado5{
-	background-color:#cccccc;
+	background-color:#000000;
 	position: relative;
     top: -400px;
 	left: 404px;
@@ -44,6 +44,110 @@ body {
 	position: relative;
     top: -500px;
 	left: 505px;
+	height: 100px;
+	width: 100px;
+}
+.quadrado7{
+	background-color:#000000;
+	position: relative;
+    top: -600px;
+	left: 606px;
+	height: 100px;
+	width: 100px;
+}
+.quadrado8{
+	background-color:#ffffff;
+	position: relative;
+    top: -700px;
+	left: 707px;
+	height: 100px;
+	width: 100px;
+}
+
+.quadrado9{
+	background-color:#ffffff;
+	position: relative;
+    top: -700px;
+	height: 100px;
+	width: 100px;
+}
+.quadrado10{
+	background-color:#000000;
+	position: relative;
+    top: -800px;
+	left: 101px;
+	height: 100px;
+	width: 100px;
+}
+.quadrado11{
+	background-color:#ffffff;
+	position: relative;
+    top: -900px;
+	left: 202px;
+	height: 100px;
+	width: 100px;
+}
+.quadrado12{
+	background-color:#000000;
+	position: relative;
+    top: -1000px;
+	left: 303px;
+	height: 100px;
+	width: 100px;
+}
+.quadrado13{
+	background-color:#ffffff;
+	position: relative;
+    top: -1100px;
+	left: 404px;
+	height: 100px;
+	width: 100px;
+}
+.quadrado14{
+	background-color:#000000;
+	position: relative;
+    top: -1200px;
+	left: 505px;
+	height: 100px;
+	width: 100px;
+}
+.quadrado15{
+	background-color:#ffffff;
+	position: relative;
+    top: -1300px;
+	left: 606px;
+	height: 100px;
+	width: 100px;
+}
+.quadrado16{
+	background-color:#000000;
+	position: relative;
+    top: -1400px;
+	left: 707px;
+	height: 100px;
+	width: 100px;
+}
+
+.quadrado17{
+	background-color:#000000;
+	position: relative;
+    top: -1400px;
+	height: 100px;
+	width: 100px;
+}
+.quadrado18{
+	background-color:#ffffff;
+	position: relative;
+    top: -1500px;
+	left: 101px;
+	height: 100px;
+	width: 100px;
+}
+.quadrado19{
+	background-color:#000000;
+	position: relative;
+    top: -1600px;
+	left: 202px;
 	height: 100px;
 	width: 100px;
 }
